@@ -1,8 +1,8 @@
 ## About Me
 
-I'm a 22-year-old Finnish mathematics student at Aalto University, expecting to complete my bachelor's degree in December 2024. My minor is in data science, with a strong emphasis on machine learning and artificial intelligence. I’m a result-driven and passionate learner, proficient in data analysis, machine learning, and artificial intelligence, primarily using Python.
+I'm a Finnish mathematics student at Aalto University, expecting to complete my bachelor's degree in December 2024. My minor is in data science, with a strong emphasis on machine learning and artificial intelligence. I’m a result-driven and passionate learner, proficient in data analysis, machine learning, and artificial intelligence, primarily using Python.
 
-I have leadership experience gained from military training at the Reserve Officer School and basketball refereeing, which has honed my ability to make quick decisions, de-escalate conflicts, and maintain authority in high-pressure situations. I thrive in fast-paced environments and am committed to growth and self-improvement in all areas of life.
+I have developed strong leadership skills through military training at the Reserve Officer School and my experience as a basketball referee. These roles sharpened my ability to make quick, confident decisions, resolve conflicts, and maintain control in high-pressure environments. I thrive in fast-paced settings and am continuously focused on personal growth, self-improvement and learning.
 
 ## Documents and Academic Work
 If you're interested in learning more about my academic background and experience, feel free to check out the following documents:
