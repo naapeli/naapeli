@@ -10,13 +10,13 @@ If you're interested in learning more about my academic background and experienc
 - [Resume](https://github.com/naapeli/naapeli/blob/main/Resume.pdf): A detailed overview of my education, work experience, and skills.
 - [Transcript](https://github.com/naapeli/naapeli/blob/main/Transcript%20of%20records.pdf): A record of my great academic performance at Aalto University.
 
-## Ongoing projects
+## Ongoing Projects
 1. [DLL](https://github.com/naapeli/deep-learning-library) is a deep learning library inspired by TensorFlow. This is my largest project to date, featuring thousands of lines of code. It encompasses a wide range of deep learning and machine learning methods, and includes numerous examples and tests to demonstrate their usage.
 
-## Upcoming projects
+## Upcoming Projects
 1. [CalcLite](https://github.com/naapeli/CalcLite) is a programming language designed for mathematical calculations. This project is currently on hold while I work on DLL, a deep learning library. Once DLL is finished, I will return to CalcLite.
 
-## Finished projects
+## Finished Projects
 1. [JavaScript chess engine](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Javascript%20projects/Chess%20engine) was my attempt to challenge a highly skilled friend at chess. Recognizing my limitations in chess skills, I aimed to leverage my coding knowledge to create an engine capable of evaluating many more positions than a human could. Despite the challenges, I gained invaluable experience and learned a lot during this project.
 
 2. [Guitar string simulation](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/Guitar%20string%20simulation) is a project where I applied the wave equation to simulate the vibrations of a guitar string. Using this model, I recreated Passenger's Let Her Go as a demonstration of how Python can be used to generate music.
