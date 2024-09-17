@@ -4,11 +4,12 @@ I'm a 22-year-old Finnish mathematics student at Aalto University, expecting to 
 
 I have leadership experience gained from military training at the Reserve Officer School and basketball refereeing, which has honed my ability to make quick decisions, de-escalate conflicts, and maintain authority in high-pressure situations. I thrive in fast-paced environments and am committed to growth and self-improvement in all areas of life.
 
-## Resume and Transcript
+## Documents and Academic Work
 If you're interested in learning more about my academic background and experience, feel free to check out the following documents:
 
 - [Resume](https://github.com/naapeli/naapeli/blob/main/Resume.pdf): A detailed overview of my education, work experience, and skills.
 - [Transcript](https://github.com/naapeli/naapeli/blob/main/Transcript%20of%20records.pdf): A record of my great academic performance at Aalto University.
+- [Bachelor's thesis](https://github.com/naapeli/naapeli/blob/main/Candidate's%20thesis.pdf): My thesis on parallel beam X-ray tomography, completed as part of my bachelor's degree at Aalto University.
 
 ## Ongoing Projects
 1. [DLL](https://github.com/naapeli/deep-learning-library) is a deep learning library inspired by TensorFlow. This is my largest project to date, featuring thousands of lines of code. It encompasses a wide range of deep learning and machine learning methods, and includes numerous examples and tests to demonstrate their usage.
