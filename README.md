@@ -16,6 +16,7 @@ If you're interested in learning more about my academic background and experienc
 
 ## Upcoming Projects
 1. [CalcLite](https://github.com/naapeli/CalcLite) is a programming language designed for mathematical calculations. This project is currently on hold while I work on DLL, a deep learning library. Once DLL is finished, I will return to CalcLite.
+2. A Python ray tracing software
 
 ## Finished Projects
 1. [JavaScript chess engine](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Javascript%20projects/Chess%20engine) was my attempt to challenge a highly skilled friend at chess. Recognizing my limitations in chess skills, I aimed to leverage my coding knowledge to create an engine capable of evaluating many more positions than a human could. Despite the challenges, I gained invaluable experience and learned a lot during this project.
