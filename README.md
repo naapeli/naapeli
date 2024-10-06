@@ -11,6 +11,12 @@ If you're interested in learning more about my academic background and experienc
 - [Transcript](https://github.com/naapeli/naapeli/blob/main/Transcript%20of%20records.pdf): A record of my great academic performance at Aalto University.
 - [Bachelor's thesis](https://github.com/naapeli/naapeli/blob/main/Candidate's%20thesis.pdf): My thesis on parallel beam X-ray tomography, completed as part of my bachelor's degree at Aalto University.
 
+## Sustainable Finance in the Quantum Era Hackathon
+I am part of the winning team at the Ultrahack hackathon in 2024. In about 36 hours, we were able to make an entire business plan and execute most of the technology behind the concept. Our solution was an optimization platform intended to be embedded into a stock broker's website. We implemented two optimization algorithms with both classical and quantum methods. In addition, we implemented a geometric brownian motion based prediction tool using the monte carlo method. The project and the pitch slides can be found below:
+
+- [Code](https://github.com/naapeli/Hanken-Hackathon-2024)
+- [Slides](https://github.com/naapeli/Hanken-Hackathon-2024/blob/main/hackathon%20pitch.pdf) of the pitch as a pdf
+
 ## Ongoing Projects
 1. [DLL](https://github.com/naapeli/deep-learning-library) is a deep learning library inspired by TensorFlow. This is my largest project to date, featuring thousands of lines of code. It encompasses a wide range of deep learning and machine learning methods, and includes numerous examples and tests to demonstrate their usage.
 
