@@ -17,14 +17,14 @@ I am part of the winning team at the Ultrahack hackathon in 2024. In about 36 ho
 - [Code](https://github.com/naapeli/Hanken-Hackathon-2024)
 - [Slides](https://github.com/naapeli/Hanken-Hackathon-2024/blob/main/hackathon%20pitch.pdf) of the pitch as a pdf
 
-## Ongoing Projects
+## Featured Projects
 1. [DLL](https://github.com/naapeli/deep-learning-library) is a deep learning library inspired by TensorFlow. This is my largest project to date, featuring thousands of lines of code. It encompasses a wide range of deep learning and machine learning methods, and includes numerous examples and tests to demonstrate their usage.
 
 ## Upcoming Projects
 1. [CalcLite](https://github.com/naapeli/CalcLite) is a programming language designed for mathematical calculations. This project is currently on hold while I work on DLL, a deep learning library. Once DLL is finished, I will return to CalcLite.
 2. A Python ray tracing software
 
-## Finished Projects
+## Other Projects
 1. [JavaScript chess engine](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Javascript%20projects/Chess%20engine) was my attempt to challenge a highly skilled friend at chess. Recognizing my limitations in chess skills, I aimed to leverage my coding knowledge to create an engine capable of evaluating many more positions than a human could. Despite the challenges, I gained invaluable experience and learned a lot during this project.
 
 2. [Guitar string simulation](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/Guitar%20string%20simulation) is a project where I applied the wave equation to simulate the vibrations of a guitar string. Using this model, I recreated Passenger's Let Her Go as a demonstration of how Python can be used to generate music.
