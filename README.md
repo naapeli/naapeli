@@ -21,8 +21,9 @@ I am part of the winning team at the Ultrahack hackathon in 2024. In about 36 ho
 1. [DLL](https://github.com/naapeli/deep-learning-library) is a deep learning library inspired by TensorFlow. This is my largest project to date, featuring thousands of lines of code. It encompasses a wide range of deep learning and machine learning methods, and includes numerous examples and tests to demonstrate their usage.
 
 ## Upcoming Projects
-1. [CalcLite](https://github.com/naapeli/CalcLite) is a programming language designed for mathematical calculations. This project is currently on hold while I work on DLL, a deep learning library. Once DLL is finished, I will return to CalcLite.
-2. A Python ray tracing software
+1. [C++ Chess](https://github.com/naapeli/Cpp-Chess) is a work-in-progress chess engine. My goal is to improve the performance of the previously made [JavaScript chess engine](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Javascript%20projects/Chess%20engine). Hopefully this engine is able to cross the 2000 elo barrier.
+2. [CalcLite](https://github.com/naapeli/CalcLite) is a programming language designed for mathematical calculations. This project is currently on hold while I work on DLL, a deep learning library. Once DLL is finished, I will return to CalcLite.
+3. A Python ray tracing software
 
 ## Other Projects
 1. [JavaScript chess engine](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Javascript%20projects/Chess%20engine) was my attempt to challenge a highly skilled friend at chess. Recognizing my limitations in chess skills, I aimed to leverage my coding knowledge to create an engine capable of evaluating many more positions than a human could. Despite the challenges, I gained invaluable experience and learned a lot during this project.
