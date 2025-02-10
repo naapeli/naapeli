@@ -8,7 +8,6 @@ I have developed strong leadership skills through military training at the Reser
 If you're interested in learning more about my academic background and experience, feel free to check out the following documents:
 
 - [Resume](https://github.com/naapeli/naapeli/blob/main/Resume.pdf): A detailed overview of my education, work experience, and skills.
-- [Transcript](https://github.com/naapeli/naapeli/blob/main/Transcript%20of%20records.pdf): A record of my great academic performance at Aalto University.
 - [Bachelor's thesis](https://github.com/naapeli/naapeli/blob/main/Candidate's%20thesis.pdf): My thesis on parallel beam X-ray tomography, completed as part of my bachelor's degree at Aalto University.
 
 ## Sustainable Finance in the Quantum Era Hackathon
