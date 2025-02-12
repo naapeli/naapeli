@@ -10,14 +10,14 @@ If you're interested in learning more about my academic background and experienc
 - [Resume](https://github.com/naapeli/naapeli/blob/main/Resume.pdf): A detailed overview of my education, work experience, and skills.
 - [Bachelor's thesis](https://github.com/naapeli/naapeli/blob/main/Candidate's%20thesis.pdf): My thesis on parallel beam X-ray tomography, completed as part of my bachelor's degree at Aalto University.
 
+## Featured Projects
+1. [DLL](https://github.com/naapeli/deep-learning-library) is a deep learning library inspired by TensorFlow. This is my largest project to date, featuring thousands of lines of code. It encompasses a wide range of deep learning and machine learning methods, and includes numerous examples and tests to demonstrate their usage.
+
 ## Sustainable Finance in the Quantum Era Hackathon
-I am part of the winning team at the Ultrahack hackathon in 2024. In about 36 hours, we were able to make an entire business plan and execute most of the technology behind the concept. Our solution was a portfolio optimization and pprediction platform intended to be embedded into a stock broker's website. We implemented two optimization algorithms with both classical and quantum methods. In addition, we implemented a geometric brownian motion based prediction tool using the monte carlo method, as well as, incorporated impact data from [The Upright Project](https://www.uprightproject.com/). The project and the pitch slides can be found below:
+I am part of the winning team at the Ultrahack hackathon in 2024. In about 36 hours, we were able to make an entire business plan and execute most of the technology behind the concept. Our solution was a portfolio optimization and prediction platform intended to be embedded into a stock broker's website. We implemented two optimization algorithms with both classical and quantum methods. In addition, we implemented a geometric brownian motion based prediction tool using the monte carlo method, as well as, incorporated impact data from [The Upright Project](https://www.uprightproject.com/). The project and the pitch slides can be found below:
 
 - [Code](https://github.com/naapeli/Hanken-Hackathon-2024)
 - [Slides](https://github.com/naapeli/Hanken-Hackathon-2024/blob/main/hackathon%20pitch.pdf) of the pitch as a pdf
-
-## Featured Projects
-1. [DLL](https://github.com/naapeli/deep-learning-library) is a deep learning library inspired by TensorFlow. This is my largest project to date, featuring thousands of lines of code. It encompasses a wide range of deep learning and machine learning methods, and includes numerous examples and tests to demonstrate their usage.
 
 ## Upcoming Projects
 1. [C++ Chess](https://github.com/naapeli/Cpp-Chess) is a work-in-progress chess engine. My goal is to improve the performance of the previously made [JavaScript chess engine](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Javascript%20projects/Chess%20engine). Hopefully this engine is able to cross the 2000 elo barrier.
