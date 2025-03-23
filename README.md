@@ -12,6 +12,7 @@ If you're interested in learning more about my academic background and experienc
 
 ## Featured Projects
 1. [DLL](https://github.com/naapeli/deep-learning-library) is a deep learning library inspired by TensorFlow. This is my largest project to date, featuring thousands of lines of code. It encompasses a wide range of deep learning and machine learning methods, and includes numerous examples and tests to demonstrate their usage.
+2. [NeoGPT](https://github.com/naapeli/NeoGPT) is a large language model with the same architecture as GPT2 by OpenAI. It was created and trained using a Lambda Labs GPU cluster and tested with the hellaswag metric.
 
 ## Sustainable Finance in the Quantum Era Hackathon
 I am part of the winning team at the Ultrahack hackathon in 2024. In about 36 hours, we were able to make an entire business plan and execute most of the technology behind the concept. Our solution was a portfolio optimization and prediction platform intended to be embedded into a stock broker's website. We implemented two optimization algorithms with both classical and quantum methods. In addition, we implemented a geometric brownian motion based prediction tool using the monte carlo method, as well as, incorporated impact data from [The Upright Project](https://www.uprightproject.com/). The project and the pitch slides can be found below:
