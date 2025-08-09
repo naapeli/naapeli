@@ -23,9 +23,10 @@ I am part of the winning team at the Ultrahack hackathon in 2024. In about 36 ho
 - [Slides](https://github.com/naapeli/Hanken-Hackathon-2024/blob/main/hackathon%20pitch.pdf) of the pitch as a pdf
 
 ## Upcoming Projects
-1. [C++ Chess](https://github.com/naapeli/Cpp-Chess) is a work-in-progress chess engine. My goal is to improve the performance of the previously made [JavaScript chess engine](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Javascript%20projects/Chess%20engine). Hopefully this engine is able to cross the 2000 elo barrier.
-2. [CalcLite](https://github.com/naapeli/CalcLite) is a programming language designed for mathematical calculations. This project is currently on hold while I work on DLL, a deep learning library. Once DLL is finished, I will return to CalcLite.
-3. A Python computer vision project
+1. [C++ Chess](https://github.com/naapeli/Cpp-Chess) is a work-in-progress chess engine. My goal is to improve the performance of the previously made [JavaScript chess engine](https://github.com/naapeli/Chess-engine). Hopefully this engine is able to cross the 2000 elo barrier.
+2. [CalcLite](https://github.com/naapeli/CalcLite) is a programming language designed for mathematical calculations. This project is currently on hold.
+3. [BayesianDLL](https://github.com/naapeli/BayesianDLL) is a machine learning library inspired by PyMC. It is designed for Bayesian inference particularly with Markov chain monte carlo methods.
+4. [Sudoku-GNN](https://github.com/naapeli/GNN-sudoku) is a graph neural network model that is able to solve sudoku puzzles.
 
 ## Other Projects
 1. [3D path visualisation tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/3D%20path-finding%20visualisation) is a tool to compare different path finding algorithms in a 3 dimensional grid.
