@@ -29,11 +29,11 @@ I am part of the winning team at the Ultrahack hackathon in 2024. In about 36 ho
 4. [Sudoku-GNN](https://github.com/naapeli/GNN-sudoku) is a graph neural network model that is able to solve sudoku puzzles.
 
 ## Other Projects
-1. [3D path visualisation tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/3D%20path-finding%20visualisation) is a tool to compare different path finding algorithms in a 3 dimensional grid.
+1. [3D path visualisation tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/3D%20path-finding%20visualisation) is a tool to compare different path finding algorithms in a 3 dimensional grid.
 
-2. [Flappy bird AI](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/flappy%20bird%20machine%20learning) is a project where I used [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) to train neural networks to play flappy bird.
+2. [Flappy bird AI](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/flappy%20bird%20machine%20learning) is a project where I used [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) to train neural networks to play flappy bird.
 
-3. [Buffon's needle tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/Buffon's%20needle%20problem) is a visualisation tool to approximate the value of π.
+3. [Buffon's needle tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Buffon's%20needle%20problem) is a visualisation tool to approximate the value of π.
 
 For images of the completed projects, check out the corresponding repositories linked in the project names.
 
