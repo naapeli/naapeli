@@ -28,13 +28,11 @@ I am part of the winning team at the Ultrahack hackathon in 2024. In about 36 ho
 3. A Python computer vision project
 
 ## Other Projects
-1. [Guitar string simulation](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/Guitar%20string%20simulation) is a project where I applied the wave equation to simulate the vibrations of a guitar string. Using this model, I recreated Passenger's Let Her Go as a demonstration of how Python can be used to generate music.
+1. [3D path visualisation tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/3D%20path-finding%20visualisation) is a tool to compare different path finding algorithms in a 3 dimensional grid.
 
-2. [3D path visualisation tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/3D%20path-finding%20visualisation) is a tool to compare different path finding algorithms in a 3 dimensional grid.
+2. [Flappy bird AI](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/flappy%20bird%20machine%20learning) is a project where I used [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) to train neural networks to play flappy bird.
 
-3. [Flappy bird AI](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/flappy%20bird%20machine%20learning) is a project where I used [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) to train neural networks to play flappy bird.
-
-4. [Buffon's needle tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/Buffon's%20needle%20problem) is a visualisation tool to approximate the value of π.
+3. [Buffon's needle tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/Buffon's%20needle%20problem) is a visualisation tool to approximate the value of π.
 
 For images of the completed projects, check out the corresponding repositories linked in the project names.
 
