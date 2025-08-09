@@ -13,6 +13,7 @@ If you're interested in learning more about my academic background and experienc
 ## Featured Projects
 1. [DLL](https://github.com/naapeli/deep-learning-library) is a deep learning library inspired by TensorFlow. This is my largest project to date, featuring thousands of lines of code. It encompasses a wide range of deep learning and machine learning methods, and includes numerous examples and tests to demonstrate their usage.
 2. [NeoGPT](https://github.com/naapeli/NeoGPT) is a large language model with the same architecture as GPT2 by OpenAI. It was created and trained using a Lambda Labs GPU cluster and tested with the hellaswag metric.
+3. [Chess engine](https://github.com/naapeli/Chess-engine) was my attempt to challenge a highly skilled friend at chess. Recognizing my limitations in chess skills, I aimed to leverage my coding knowledge to create an engine capable of evaluating many more positions than a human could. Despite the challenges, I gained invaluable experience and learned a lot during this project. One can play against the engine [here](https://naapeli.github.io/Chess-engine/).
 
 ## Sustainable Finance in the Quantum Era Hackathon
 I am part of the winning team at the Ultrahack hackathon in 2024. In about 36 hours, we were able to make an entire business plan and execute most of the technology behind the concept. Our solution was a portfolio optimization and prediction platform intended to be embedded into a stock broker's website. We implemented two optimization algorithms with both classical and quantum methods. In addition, we implemented a geometric brownian motion based prediction tool using the monte carlo method, as well as, incorporated impact data from [The Upright Project](https://www.uprightproject.com/). The project and the pitch slides can be found below:
@@ -26,15 +27,13 @@ I am part of the winning team at the Ultrahack hackathon in 2024. In about 36 ho
 3. A Python computer vision project
 
 ## Other Projects
-1. [JavaScript chess engine](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Javascript%20projects/Chess%20engine) was my attempt to challenge a highly skilled friend at chess. Recognizing my limitations in chess skills, I aimed to leverage my coding knowledge to create an engine capable of evaluating many more positions than a human could. Despite the challenges, I gained invaluable experience and learned a lot during this project.
+1. [Guitar string simulation](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/Guitar%20string%20simulation) is a project where I applied the wave equation to simulate the vibrations of a guitar string. Using this model, I recreated Passenger's Let Her Go as a demonstration of how Python can be used to generate music.
 
-2. [Guitar string simulation](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/Guitar%20string%20simulation) is a project where I applied the wave equation to simulate the vibrations of a guitar string. Using this model, I recreated Passenger's Let Her Go as a demonstration of how Python can be used to generate music.
+2. [3D path visualisation tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/3D%20path-finding%20visualisation) is a tool to compare different path finding algorithms in a 3 dimensional grid.
 
-3. [3D path visualisation tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/3D%20path-finding%20visualisation) is a tool to compare different path finding algorithms in a 3 dimensional grid.
+3. [Flappy bird AI](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/flappy%20bird%20machine%20learning) is a project where I used [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) to train neural networks to play flappy bird.
 
-4. [Flappy bird AI](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/flappy%20bird%20machine%20learning) is a project where I used [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) to train neural networks to play flappy bird.
-
-5. [Buffon's needle tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/Buffon's%20needle%20problem) is a visualisation tool to approximate the value of π.
+4. [Buffon's needle tool](https://github.com/naapeli/Aatu-Selkee-coding-projects/tree/main/Python%20projects/Buffon's%20needle%20problem) is a visualisation tool to approximate the value of π.
 
 For images of the completed projects, check out the corresponding repositories linked in the project names.
 
