@@ -1,13 +1,10 @@
 ## About Me
 
-I'm a Finnish mathematics student at Aalto University, expecting to complete my bachelor's degree in December 2024. My minor is in data science, with a strong emphasis on machine learning and artificial intelligence. I’m a result-driven and passionate learner, proficient in data analysis, machine learning, and artificial intelligence, primarily using Python.
-
-I have developed strong leadership skills through military training at the Reserve Officer School and my experience as a basketball referee. These roles sharpened my ability to make quick, confident decisions, resolve conflicts, and maintain control in high-pressure environments. I thrive in fast-paced settings and am continuously focused on personal growth, self-improvement and learning.
+I'm a Finnish masters student at Aalto University. My major is applied mathematics and my minor is in machine learning, artificial intelligence and data science.
 
 ## Documents and Academic Work
 If you're interested in learning more about my academic background and experience, feel free to check out the following documents:
 
-- [Resume](https://github.com/naapeli/naapeli/blob/main/Resume.pdf): A detailed overview of my education, work experience, and skills.
 - [Bachelor's thesis](https://github.com/naapeli/naapeli/blob/main/Candidate's%20thesis.pdf): My thesis on parallel beam X-ray tomography, completed as part of my bachelor's degree at Aalto University.
 
 ## Featured Projects
