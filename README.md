@@ -11,6 +11,7 @@ I'm a Finnish masters student at Aalto University. My major is applied mathemati
 ## Documents and Academic Work
 If you're interested in learning more about my academic background and experience, feel free to check out the following documents:
 
+- [Resume](https://github.com/naapeli/naapeli/blob/main/Plain_resume%20(5).pdf)
 - [Bachelor's thesis](https://github.com/naapeli/naapeli/blob/main/Candidate's%20thesis.pdf): My thesis on parallel beam X-ray tomography, completed as part of my bachelor's degree at Aalto University.
 
 ## Sustainable Finance in the Quantum Era Hackathon
